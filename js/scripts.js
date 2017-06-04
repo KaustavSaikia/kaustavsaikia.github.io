@@ -98,7 +98,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Software QA Professional.", "I Love Developing Automation Framework.", "I Live in Bangalore, India."],    
+            strings: ["I am A Software QA Professional.", "Love to Automate", "I Live in Bangalore, India."],    
 			/* You can change the home section typing text from here and do not use "&" use "and" */
             typeSpeed: 50
           });
